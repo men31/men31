@@ -4,6 +4,10 @@
 - 👀 I’m interested in machine learning .especially from scratch
 - 🌱 I’m currently master student in applied machine learning and scientific data analysis at Suranaree University of Technology
 
+<div> 
+  dfdsf
+</div>
+
 $$
   s_d, where s \= 2
 $$
