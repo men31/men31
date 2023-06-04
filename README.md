@@ -1,8 +1,8 @@
 # About Me:
 
 - 👋 Hi, I’m Rapeephat Yodsungnoen <br>
-- ✨ I'm newbie in this field because I came from physics student <br>
 - 👀 I’m interested in machine learning .especially from scratch <br>
+- ✨ But I'm newbie in this field because I came from physics student so there are not much machine learning project <br>
 - 🌱 I’m currently master student in applied machine learning and scientific data analysis at Suranaree University of Technology <br>
 
 # 💻 Tech Stack:
