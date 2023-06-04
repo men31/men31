@@ -4,9 +4,9 @@
 - 👀 I’m interested in machine learning .especially from scratch
 - 🌱 I’m currently master student in applied machine learning and scientific data analysis at Suranaree University of Technology
 
-<eq>
+$$
   s_d, where s /= 2
-</eq>
+$$
 
 <!---
 men31/men31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
